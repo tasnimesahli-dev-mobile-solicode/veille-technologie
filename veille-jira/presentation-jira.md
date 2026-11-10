@@ -5,15 +5,40 @@ paginate: true
 size: 16:9
 ---
 
-# Veille Technologique : Jira
+<style>
+section.cover { text-align: center; }
+section.cover .logos { display: flex; justify-content: center; align-items: center; gap: 72px; margin: 18px 0 42px; }
+section.cover .logos img { display: block; height: auto; object-fit: contain; }
+section.cover .logo-ofppt { width: 180px; }
+section.cover .logo-solicode { width: 230px; }
+section.cover h1 { font-size: 40px; margin: 0 0 16px; }
+section.cover .subtitle { font-size: 22px; margin: 0; }
+section.cover hr { width: 72px; height: 3px; border: 0; background: #0052CC; margin: 30px auto; }
+section.cover .meta { font-size: 20px; line-height: 1.8; margin: 0; }
+</style>
 
-### Comprendre l'outil de gestion de projet d'Atlassian
+<!-- _class: cover -->
+<!-- _paginate: false -->
 
-- **Technologie** : Atlassian Jira
-- **Objectif** : Organiser les tâches et suivre les projets en équipe
-- **Niveau** : Débutant (Français A1)
+<div class="logos">
+  <img class="logo-ofppt" src="images/ofppt-logo.png" alt="Logo OFPPT">
+  <img class="logo-solicode" src="images/solicode-logo.png" alt="Logo Solicode">
+</div>
+
+# Veille technologique : Jira
+
+<p class="subtitle">Présentation de l'outil de gestion de projet d'Atlassian</p>
+
+<hr>
+
+<p class="meta">
+  <strong>Encadrant :</strong> Fouad E-ssarraj<br>
+  <strong>Apprenant :</strong>Tasnime Sahli
+</p>
 
 ---
+
+
 
 # 1. Introduction
 
