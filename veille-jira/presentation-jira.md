@@ -33,12 +33,20 @@ section.cover .meta { font-size: 20px; line-height: 1.8; margin: 0; }
 
 <p class="meta">
   <strong>Encadrant :</strong> Fouad E-ssarraj<br>
-  <strong>Apprenant :</strong>Tasnime Sahli
+  <strong>Apprenant :</strong> Tasnime Sahli
 </p>
 
 ---
 
+# Plan de la présentation
 
+1. Introduction
+2. Problèmes rencontrés
+3. Solutions apportées par Jira
+4. Exemple pratique
+5. Sources officielles
+
+---
 
 # 1. Introduction
 
